@@ -1,7 +1,7 @@
 import rumps
 import requests
 
-EXEC_TIMER = 60  # refresh every 60 seconds
+EXEC_TIMER = 600  # refresh every 10 min
 
 url = 'https://api.exchangerate.host/latest'
 
